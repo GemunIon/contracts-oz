@@ -7,10 +7,10 @@
   "dependencies": {
     "@ethberry/utils": "1.6.1",
     "@nomicfoundation/hardhat-toolbox": "5.0.0",
-    "hardhat": "2.22.15"
+    "hardhat": "2.22.18"
   },
   "devDependencies": {
-    "ethers": "6.13.4",
+    "ethers": "6.13.5",
     "rimraf": "6.0.1"
   },
   "files": [
